@@ -1,0 +1,9 @@
+{
+  "name": "JEEV-RAKSHA AI ",
+  "description": "Elite AI system for real-time animal health analysis, disease detection, and autonomous emergency rescue coordination using deep learning and reinforcement learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
